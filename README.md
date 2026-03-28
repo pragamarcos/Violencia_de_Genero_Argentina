@@ -1,49 +1,54 @@
-**Dashboard de Violencia de Género en Argentina (2023)**
+# 🔴 Dashboard de Violencia de Género en Argentina (2020–2023)
 
-**Descripción**
+## Descripción
 
-Tablero interactivo en Power BI que consolida, visualiza y analiza datos de violencia de género, permitiendo identificar tendencias, patrones críticos y apoyar la toma de decisiones en políticas de prevención y asistencia.
+Tablero interactivo desarrollado en Power BI que consolida, visualiza y analiza datos oficiales sobre violencia de género en Argentina. Permite identificar tendencias, patrones críticos y apoyar la toma de decisiones en políticas de prevención y asistencia.
 
-**Objetivos**
+## Objetivos
 
-- Analizar la distribución geográfica de los casos.
-
+- Analizar la distribución geográfica de los casos reportados.
 - Identificar los tipos de violencia más frecuentes.
+- Explorar la relación entre la edad de la víctima y el vínculo con el agresor.
+- Comparar diferencias según el género del agresor.
+- Apoyar el diseño de intervenciones basadas en evidencia.
 
-- Explorar la relación entre edad de la víctima y vínculo con el agresor.
+## Fuente de datos
 
-- Comparar diferencias según género del agresor.
+Datos oficiales del Estado argentino sobre violencia de género, correspondientes al período 2020–2023.
 
-**Usuarios**
+## Herramientas utilizadas
 
-Entidades gubernamentales, ONGs y equipos de políticas públicas.
+| Herramienta | Uso |
+|---|---|
+| Excel | Limpieza y normalización de datos |
+| Draw.io | Diagrama entidad-relación del modelo de datos |
+| Power BI | Dashboard interactivo y visualización |
 
-Analistas sociales y profesionales de datos enfocados en violencia de género.
+## Estructura del dashboard
 
-**Herramientas**
+- **Carátula**: presentación general y navegación del tablero.
+- **Glosario**: definiciones de las variables clave.
+- **Análisis General**: visión global de los casos, tipos de violencia más comunes, edad promedio de víctimas (34 años) y relación con el agresor.
+- **Análisis Regional**: distribución geográfica con foco en Buenos Aires, CABA, Santa Fe y Tucumán.
+- **Análisis Histórico**: evolución temporal (2020–2023) por tipo de violencia y género.
 
-**Excel**: limpieza y normalización de datos.
+## Principales hallazgos
 
-**Draw.io**: diagrama entidad-relación.
+- La mayoría de las víctimas son mujeres cis; los agresores son mayormente pareja o ex pareja.
+- Los tipos de violencia predominantes son la psicológica y la doméstica.
+- El análisis regional permite identificar focos de intervención prioritaria.
 
-**Power BI**: desarrollo del dashboard interactivo.
+## Usuarios objetivo
 
-**Contenido del dashboard**
+- Organismos gubernamentales y equipos de políticas públicas.
+- ONGs y organizaciones de asistencia a víctimas.
+- Analistas sociales y profesionales de datos con foco en género.
 
-Carátula: presentación y navegación.
+## Cómo explorar el proyecto
 
-Glosario: definiciones de variables clave.
+1. Descargar `Analisis de violencia de Genero Argentina.pbix` y abrirlo con Power BI Desktop.
+2. Consultar `Hipotesis y objetivos.pdf` para entender el marco del análisis.
 
-Análisis General: visión global, tipos de violencia más comunes (psicológica y doméstica), edad promedio de víctimas (34 años), relación con el agresor.
+## Contacto
 
-Análisis Regional: distribución geográfica (focos: Buenos Aires, CABA, Santa Fe, Tucumán).
-
-Análisis Histórico: evolución temporal (2020–2023) por tipo de violencia y género.
-
-**Insights principales**
-
-La mayoría de las víctimas son mujeres cis, con agresores mayormente pareja o ex pareja.
-
-Tipos de violencia predominantes: psicológica y doméstica.
-
-Permite focalizar recursos, fortalecer políticas de prevención y diseñar intervenciones específicas basadas en evidencia.
+[LinkedIn](https://www.linkedin.com/in/marcospraga/) · [GitHub](https://github.com/pragamarcos)
